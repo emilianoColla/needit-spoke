@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD464d050a9bc561100c0f951fbf07a15e</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>7fac000a2fc16110e4f95aab2799b6c3</scope_name>
+        <serialized_content>{"FlowDesigner:FD464d050a9bc561100c0f951fbf07a15e":{"$COCollectionField":["Boolean"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD464d050a9bc561100c0f951fbf07a15e.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Property\",\"mandatory\":\"true\",\"child_name\":\"property_child0\",\"uiUniqueId\":\"5d19fa90-4dfd-49ec-9b73-fabb0680746e\",\"uiTypeLabel\":\"String\",\"co_type_name\":\"FD464d050a9bc561100c0f951fbf07a15e\",\"child_label\":\"Property_child0\",\"child_type_label\":\"True/False\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"string\",\"child_type\":\"boolean\",\"order\":\"1\",\"max_length\":\"0\",\"child_uiUniqueId\":\"2d6262d9-964e-4bfc-a35b-bb9b9f9fdc03\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 15:53:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0a4d050a2fc56110e4f95aab2799b65e</sys_id>
+        <sys_name>FD464d050a9bc561100c0f951fbf07a15e</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Spoke" source="x_976226_needit_sp">7fac000a2fc16110e4f95aab2799b6c3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">7fac000a2fc16110e4f95aab2799b6c3</sys_scope>
+        <sys_update_name>sys_complex_object_0a4d050a2fc56110e4f95aab2799b65e</sys_update_name>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>
